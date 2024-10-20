@@ -1,0 +1,296 @@
+body{
+    margin: 0px;
+}
+
+#container{
+    height: 593px;
+    width: 100%;
+    background-color: rgb(228, 227, 227);
+    border: 1px solid;
+}
+
+#div1{
+    height: 40px;
+    background-color: rgb(212, 211, 211);
+    border: 1px solid white;
+    border-bottom: none;
+    padding-top: 15px;
+    padding-left: 305px;
+}
+
+#div1>a{
+    text-decoration: none;
+    color: darkslategray;
+    font-size: larger;
+}
+
+#container1{
+    height: 130px;
+    width: 100%;
+    background-color: #4e5944;
+    border-top:  3px dashed grey; 
+}
+
+#logo{
+    padding: 40px 0px;
+    margin-right: 20px;
+    margin-left: 280px;
+}
+
+#nav{
+    margin-left: 700px;
+    margin-top: -5%;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    color: #a9b19b;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+a:link{
+    color:#a9b19b;
+}
+
+a:hover{
+    color: white;
+}
+
+#list2{
+    margin-left: 80px;
+    margin-top: -18px;
+}
+
+#list3{
+    margin-top: -18px;
+    margin-left: 170px;
+}
+
+#list4{
+    margin-top: -18px;
+    margin-left: 290px;
+}
+
+#list5{
+    margin-top: -18px;
+    margin-left: 430px;
+}
+
+#list6{
+    margin-top: -18px;
+    margin-left: 520px;
+}
+
+#container2{
+    height: 380px;
+    width: 60%;
+    margin-left: 20%;
+    border: 1px solid white;
+    margin-top: 15px;
+    background-color: rgb(232, 233, 238);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+}
+
+#div2{
+    height: 280px;
+    width: 400px;
+    padding-top: 80px;
+}
+
+#heading1, #para1{
+    color: #4e5944;
+    text-align: center;
+}
+
+#para1{
+    margin-top: 0px;
+    font-size: 25px;
+    line-height: 45px;
+}
+
+#img1{
+    width: 500px;
+    margin-left: 410px;
+    margin-top: -301px;
+}
+
+#container3{
+    height: 235px;
+    margin-top: 0px;
+    background-color:#eee;
+    border: 1px solid white;
+}
+
+#div3{
+    height: 200px;
+    width: 60%;
+    margin-left: 310px;
+    margin-top: 10px;
+}
+
+#header2{
+    padding-top: 20px ;
+    color: #4e5944;
+}
+
+#para2, #para3{
+    font-size: 14px;
+    line-height: 25px;
+    font-family: sans-serif;
+    color: #4e5944;
+}
+
+#div4{
+    width: 39%;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 61%;
+    margin-top: -200px;
+    border-left: 1px dotted gray;
+    padding-left: 20px;
+}
+
+#header3{
+    color: #4e5944;
+}
+
+#container4{
+    height: 400px;
+    background-color:rgb(228, 227, 227) ;
+    border: 1px solid white;
+}
+
+#div5{
+    height: 50px;
+    margin-left: 310px;
+    border: 2px solid rgb(228, 227, 227);
+}
+
+#para4{
+    text-transform:uppercase ;
+    color: #4e5944;
+    font-size: 20px;
+    word-spacing: 3px;
+    text-align: left;
+}
+
+.class-card{
+    height: 320px;
+    width: 214px;
+    border: 1px solid rgb(228, 227, 227);
+    padding: 5px;
+}
+
+#div6{
+    margin-left: 305px;
+}
+
+#div7{
+    margin-left: 545px;
+    margin-top: -330px;
+}
+
+#div8{
+    margin-left: 785px;
+    margin-top: -331px;
+}
+
+#div9{
+    margin-left: 1025px;
+    margin-top: -332px;
+}
+
+
+.class-bg{
+    height:150px ;
+    width:205px ;
+    background-color: white;
+    margin-left: 4px;
+    box-shadow: 0px 2px 10px 1px black;
+}
+
+.images{
+    margin-left: 4px;
+    margin-top: 5px;
+}
+
+.h3{
+    font-size: small;
+    color: #4e5944;
+}
+
+.para{
+    line-height: 25px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+button>a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+
+.para + button{
+    background-color: rgb(76, 76, 76);
+    border: none;
+    height: 30px;
+    width: 120px;
+    font-family: sans-serif;
+}
+
+#container5{
+    height: 220px;
+    background-color: rgb(211, 210, 210);
+    border: 1px solid white;
+}
+
+#div10{
+    margin-left: 325px;
+}
+
+#div11{
+    margin-left: 655px;
+    margin-top: -70px;
+}
+
+#div12{
+    margin-top: -70px;
+    margin-left: 960px;
+}
+
+.class-divc5{
+    height: 40px;
+    width: 300px;
+    padding-top: 30px;
+}
+
+h4+p{
+    line-height: 30px;
+}
+
+#container6{
+    height: 50px;
+    background-color: #4e5944;
+    border: 1px solid white;
+}
+
+#div13{
+    margin-left: 300px;
+    margin-top: 14px;
+    width: 150px;
+}
+
+#div13>i{
+    padding-right: 8px;
+}
+
+#div14{
+    margin-left: 800px;
+    margin-top: -20px;
+}

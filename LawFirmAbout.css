@@ -1,0 +1,34 @@
+#container_2>h1{
+     color: #4e5944;
+     padding-left: 307px;
+}
+
+#container_2>#div_bg{
+    margin-left: 310px;
+    width: 60%;
+    background-color: white;   
+}
+
+#img_1{
+    width: 900px;
+    padding: 5px;
+}
+
+#container_3{
+    padding-top: 20px ;
+    border: 1px solid white;
+    background-color:rgb(228, 227, 227) ;
+}
+
+#div_2{
+    margin-left: 307px;
+    width: 60%;
+}
+
+#div_2>h3{
+    color: #4e5944;
+}
+
+#div_2>p{
+    color: #4e5944;
+}

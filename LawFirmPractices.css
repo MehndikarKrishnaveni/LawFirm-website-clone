@@ -1,0 +1,117 @@
+#containerr2{
+    border: 1px solid white;
+    height: 800px;
+    background-color: rgb(228, 227, 227) ;
+    padding: 2px;
+}
+
+#pdiv1{
+    margin-top: 0px;
+    height: 790px;
+    width: auto;
+    /* background-color: aquamarine; */
+    padding: 5px;
+    position: relative;
+}
+
+#pdiv2{
+    margin: 0%;
+}
+#pdiv2{
+    height: 600px;
+    width: 320px;
+    /* background-color: bisque; */
+    position: relative;
+    left: 250px;
+    top: 30px;
+}
+
+#pdiv2>h3{
+    padding: 15px;
+    border-bottom: 1px dotted white;
+    color: #4e5944;
+}
+
+#pdiv2>ul>li{
+    line-height: 50px;
+    /* font-family: sans-serif; */
+    border-bottom: 1px dotted white;
+    text-indent: 0%;
+}
+
+#pdiv2>p{
+    line-height: 30px;
+    text-align: left;
+    padding: 5px 30px;
+    color: #4e5944;
+}
+
+span>p{
+    text-align: right;
+    margin-right: 50px;
+    color: #4e5944;
+}
+
+
+#pdiv3{
+    width: 650px;
+    height: 750px;
+    position: absolute;
+    top:35px;
+    left: 600px;
+    border-left: 1px dotted white;
+    padding-left: 20px;
+}
+
+#pdiv3>h2{
+    color: #4e5944;
+}
+
+#pdiv3>p{
+    line-height: 25px;
+    font-family: sans-serif;
+    font-size: small;
+    color: #4e5944;
+}
+
+.pdiv-pic{
+    height: 250px;
+    width: 280px;
+    background-color: white;
+}
+
+#pdiv-pic2{
+    position: absolute;
+    top: 206px;
+    left: 330px;
+}
+
+#pdiv-pic3{
+    position: absolute;
+    top: 500px;
+}
+
+a>.img{
+    /* padding: 3px; */
+    margin-left: 8px;
+    margin-top: 3px;
+    height: 192px;
+}
+
+a>h2{
+    text-transform: uppercase;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    height: 45px;
+    margin-top: -3px;
+    padding-top: 16px;
+}
+
+a>h2:hover{
+    background-color: rgb(66, 66, 66);
+}
+
+.pdiv-pic>a{
+    text-decoration: none;
+}
